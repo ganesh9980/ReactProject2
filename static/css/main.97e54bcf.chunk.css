@@ -1,0 +1,2 @@
+body{display:flex;justify-content:center;align-items:center;background-color:#f6d167}.container{margin-top:70%}.para{font-size:20px;background-color:#c2ffd9;text-align:right;margin:5px}.box{border-radius:5px;margin:2px;background:#262834;color:#fff}.keypad{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:minmax(60px,auto)}#clear,#highlight{background-color:#8a2be2}#clear{grid-column:1/3}#result{grid-column:3/5;background-color:#8a2be2;grid-row:5}
+/*# sourceMappingURL=main.97e54bcf.chunk.css.map */
